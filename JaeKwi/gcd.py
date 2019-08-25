@@ -1,3 +1,4 @@
+
 #최대공약수 구하기 알고리즘
 def gcd(a, b):
     i = min(a, b)
@@ -20,3 +21,13 @@ def ugcd(a, b):
     return ugcd(b, a % b)
 
 print(ugcd(10, 12))
+
+#n번째 피보나치 수열값
+#[0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 ---]
+def fibo(n):
+    if n <= 1:
+        return n
+    return fibo(n - 2) + fibo(n - 1)
+
+print(fibo(7))
+print(fibo(10))
