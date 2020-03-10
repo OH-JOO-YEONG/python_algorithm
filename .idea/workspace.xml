@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="b1231241-e0d3-4c61-90dd-2aea9bca89d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/1-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/1-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/1-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/1-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/1-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/1-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/1-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/1-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/1-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/1-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-8.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +48,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\github\python_algorithm\InflearnPythonAlgorithm" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\github\python_algorithm\InflearnPythonAlgorithm\Section1" />
       <recent name="C:\github\python_algorithm\basic" />
       <recent name="C:\github\python_algorithm" />
       <recent name="C:\github\python_algorithm\JaeKwi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\github\python_algorithm\InflearnPythonAlgorithm" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,7 +70,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1-8">
+  <component name="RunManager" selected="Python.1-10">
+    <configuration name="1-10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/1-5.py" />
+      <option name="SCRIPT_NAME" value="C:\github\python_algorithm\InflearnPythonAlgorithm\Section1\1-5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/1-7.py" />
+      <option name="SCRIPT_NAME" value="C:\github\python_algorithm\InflearnPythonAlgorithm\Section1\1-7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/1-8.py" />
+      <option name="SCRIPT_NAME" value="C:\github\python_algorithm\InflearnPythonAlgorithm\Section1\1-8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="isort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1-9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,32 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SearchAndSort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SearchAndSort/isort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="oop2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1-10" />
+        <item itemvalue="Python.1-9" />
         <item itemvalue="Python.1-8" />
         <item itemvalue="Python.1-7" />
         <item itemvalue="Python.1-5" />
-        <item itemvalue="Python.isort" />
-        <item itemvalue="Python.oop2" />
       </list>
     </recent_temporary>
   </component>
