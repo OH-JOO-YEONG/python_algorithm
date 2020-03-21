@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b1231241-e0d3-4c61-90dd-2aea9bca89d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +56,8 @@
       <recent name="C:\github\python_algorithm\InflearnPythonAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3-8">
-    <configuration name="3-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3-10">
+    <configuration name="3-10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,29 +70,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,13 +145,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3-9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3-10" />
+        <item itemvalue="Python.3-9" />
         <item itemvalue="Python.3-8" />
         <item itemvalue="Python.3-7" />
         <item itemvalue="Python.3-6" />
-        <item itemvalue="Python.3-5" />
-        <item itemvalue="Python.3-4" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +193,8 @@
       <workItem from="1584434656552" duration="12480000" />
       <workItem from="1584617525594" duration="7832000" />
       <workItem from="1584630978085" duration="1167000" />
-      <workItem from="1584696996190" duration="5213000" />
+      <workItem from="1584696996190" duration="21443000" />
+      <workItem from="1584794805267" duration="1199000" />
     </task>
     <servers />
   </component>
@@ -219,22 +219,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584619179158" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584703379684">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584733525384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584703379684" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584703379684">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584733525384" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584733525384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584703379684" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584703379684">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584733525384" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584733525384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584703379684" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584703379684">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584733525384" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584733525384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584703379684" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584733525384" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1584249114326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -249,17 +249,19 @@
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584281521418" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_algorithm$3_2.coverage" NAME="3-2 Coverage Results" MODIFIED="1584455299434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
+    <SUITE FILE_PATH="coverage/python_algorithm$3_8.coverage" NAME="3-8 Coverage Results" MODIFIED="1584703379678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
+    <SUITE FILE_PATH="coverage/python_algorithm$2_5.coverage" NAME="2-5 Coverage Results" MODIFIED="1584255129957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
+    <SUITE FILE_PATH="coverage/python_algorithm$2_9.coverage" NAME="2-9 Coverage Results" MODIFIED="1584358679076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
     <SUITE FILE_PATH="coverage/python_algorithm$3_7.coverage" NAME="3-7 Coverage Results" MODIFIED="1584628197338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
     <SUITE FILE_PATH="coverage/python_algorithm$3_1.coverage" NAME="3-1 Coverage Results" MODIFIED="1584454982916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
-    <SUITE FILE_PATH="coverage/python_algorithm$3_2.coverage" NAME="3-2 Coverage Results" MODIFIED="1584455299434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
     <SUITE FILE_PATH="coverage/python_algorithm$2_6.coverage" NAME="2-6 Coverage Results" MODIFIED="1584281057173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
-    <SUITE FILE_PATH="coverage/python_algorithm$3_8.coverage" NAME="3-8 Coverage Results" MODIFIED="1584703379678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
     <SUITE FILE_PATH="coverage/python_algorithm$2_10.coverage" NAME="2-10 Coverage Results" MODIFIED="1584377083188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
     <SUITE FILE_PATH="coverage/python_algorithm$2_8.coverage" NAME="2-8 Coverage Results" MODIFIED="1584294148812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
     <SUITE FILE_PATH="coverage/python_algorithm$3_6.coverage" NAME="3-6 Coverage Results" MODIFIED="1584622837770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
-    <SUITE FILE_PATH="coverage/python_algorithm$2_5.coverage" NAME="2-5 Coverage Results" MODIFIED="1584255129957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
     <SUITE FILE_PATH="coverage/python_algorithm$3_5.coverage" NAME="3-5 Coverage Results" MODIFIED="1584619150629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
-    <SUITE FILE_PATH="coverage/python_algorithm$2_9.coverage" NAME="2-9 Coverage Results" MODIFIED="1584358679076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
+    <SUITE FILE_PATH="coverage/python_algorithm$3_10.coverage" NAME="3-10 Coverage Results" MODIFIED="1584733275931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
     <SUITE FILE_PATH="coverage/python_algorithm$2_11.coverage" NAME="2-11 Coverage Results" MODIFIED="1584435856177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
+    <SUITE FILE_PATH="coverage/python_algorithm$3_9.coverage" NAME="3-9 Coverage Results" MODIFIED="1584720024712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
   </component>
 </project>
