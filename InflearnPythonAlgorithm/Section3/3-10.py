@@ -1,26 +1,30 @@
-# n = int(input())
-# r = list(map(int, input().split()))
-# zero = [0] * n
+n = int(input())
+r = list(map(int, input().split()))
+zero = [0] * n
 
-# for i in range(n):
-#     cnt = 0
-#     x = 0
-#     key = 0
-#     while cnt <= r[i]:
-#         if zero[key] == 0:
-#             cnt += 1
-#         if zero[key] != 0:
-#             x += 1
-#         key += 1
-#
-#     zero[cnt - 1 + x] = i + 1
-#
-# for i in zero:
-#     print(i, end=' ')
+for i in range(n):
+    cnt = 0
+    x = 0
+    key = 0
+    while cnt <= r[i]:
+        if zero[key] == 0:
+            cnt += 1
+        if zero[key] != 0:
+            x += 1
+        key += 1
+
+    zero[cnt - 1 + x] = i + 1
+
+for i in zero:
+    print(i, end=' ')
 
 """
 미친정답지 - 질문상세 내용
-"""
+N부터 처리한다는 것은 ans에 이미 들어가 있는 숫자는 현재 처리하려는 
+숫자보다 모두 크다는 것이므로 현재 처리하려는 숫자가 x번 index로 insert되면 
+자기 앞에 무조건 큰 숫자가 x개 생기고 현재 숫자 다음에 처리되는 숫자들은 자기보다 
+작기때분에 어디에 insert 되도 상관없습니다.
+
 n = int(input())
 
 a = list(map(int, input().split()))
@@ -38,6 +42,8 @@ for x in a:
     print(ans)
 
 print(ans)
+
+"""
 
 """
 정답지
