@@ -28,7 +28,7 @@ while True:
         Q.append(cur)
     else:
         cnt += 1
-        if cnt[0] == m:
+        if cur[0] == m:
             break
 print(cnt)
 """
