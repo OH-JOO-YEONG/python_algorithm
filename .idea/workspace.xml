@@ -3,7 +3,39 @@
   <component name="ChangeListManager">
     <list default="true" id="b1231241-e0d3-4c61-90dd-2aea9bca89d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section1/1-9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2/2-9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3/3-9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,73 +89,7 @@
       <recent name="C:\github\python_algorithm\InflearnPythonAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4-7">
-    <configuration name="4-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.4-9-1">
     <configuration name="4-6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,13 +134,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="4-8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4-9-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-9-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4-9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4/4-9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4-9-1" />
+        <item itemvalue="Python.4-9" />
+        <item itemvalue="Python.4-8" />
         <item itemvalue="Python.4-7" />
         <item itemvalue="Python.4-6" />
-        <item itemvalue="Python.4-5" />
-        <item itemvalue="Python.4-4" />
-        <item itemvalue="Python.4-3" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +231,7 @@
       <workItem from="1584886367599" duration="5000" />
       <workItem from="1584938597833" duration="13723000" />
       <workItem from="1585031107044" duration="9728000" />
-      <workItem from="1585104473006" duration="7235000" />
+      <workItem from="1585104473006" duration="15005000" />
     </task>
     <servers />
   </component>
@@ -224,22 +256,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584886370632" />
-    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1585121994624">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1585146758550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585121994624" />
-    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1585121994623">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585146758550" />
+    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1585146758550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585121994623" />
-    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1585121994623">
+    <state width="914" height="281" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585146758550" />
+    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1585146758550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585121994623" />
-    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1585121994624">
+    <state width="914" height="281" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585146758550" />
+    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1585146758550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585121994624" />
+    <state width="914" height="281" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585146758550" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585067802244">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -270,6 +302,7 @@
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584281521418" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_algorithm$4_9_1.coverage" NAME="4-9-1 Coverage Results" MODIFIED="1585146758546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
     <SUITE FILE_PATH="coverage/python_algorithm$3_2.coverage" NAME="3-2 Coverage Results" MODIFIED="1584455299434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
     <SUITE FILE_PATH="coverage/python_algorithm$4_4.coverage" NAME="4-4 Coverage Results" MODIFIED="1585049506055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
     <SUITE FILE_PATH="coverage/python_algorithm$3_8.coverage" NAME="3-8 Coverage Results" MODIFIED="1584703379678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
@@ -277,12 +310,14 @@
     <SUITE FILE_PATH="coverage/python_algorithm$2_5.coverage" NAME="2-5 Coverage Results" MODIFIED="1584255129957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
     <SUITE FILE_PATH="coverage/python_algorithm$4_1.coverage" NAME="4-1 Coverage Results" MODIFIED="1584809011246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
     <SUITE FILE_PATH="coverage/python_algorithm$2_9.coverage" NAME="2-9 Coverage Results" MODIFIED="1584358679076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
+    <SUITE FILE_PATH="coverage/python_algorithm$4_9.coverage" NAME="4-9 Coverage Results" MODIFIED="1585133645022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
     <SUITE FILE_PATH="coverage/python_algorithm$3_7.coverage" NAME="3-7 Coverage Results" MODIFIED="1584628197338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
     <SUITE FILE_PATH="coverage/python_algorithm$4_5.coverage" NAME="4-5 Coverage Results" MODIFIED="1585063819758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
     <SUITE FILE_PATH="coverage/python_algorithm$3_1.coverage" NAME="3-1 Coverage Results" MODIFIED="1584454982916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
     <SUITE FILE_PATH="coverage/python_algorithm$4_2.coverage" NAME="4-2 Coverage Results" MODIFIED="1584950996627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
     <SUITE FILE_PATH="coverage/python_algorithm$2_6.coverage" NAME="2-6 Coverage Results" MODIFIED="1584281057173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
     <SUITE FILE_PATH="coverage/python_algorithm$2_10.coverage" NAME="2-10 Coverage Results" MODIFIED="1584377083188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
+    <SUITE FILE_PATH="coverage/python_algorithm$4_8.coverage" NAME="4-8 Coverage Results" MODIFIED="1585132886746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />
     <SUITE FILE_PATH="coverage/python_algorithm$2_8.coverage" NAME="2-8 Coverage Results" MODIFIED="1584294148812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section2" />
     <SUITE FILE_PATH="coverage/python_algorithm$3_6.coverage" NAME="3-6 Coverage Results" MODIFIED="1584622837770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section3" />
     <SUITE FILE_PATH="coverage/python_algorithm$4_3.coverage" NAME="4-3 Coverage Results" MODIFIED="1584979602317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InflearnPythonAlgorithm/Section4" />

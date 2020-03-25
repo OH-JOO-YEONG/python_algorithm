@@ -1,3 +1,4 @@
+# 카드 역배치
 def reverse(x):
     a = [0] * len(x)
     for i in range(1, len(x) + 1):

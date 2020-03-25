@@ -1,4 +1,4 @@
-
+# 뒤집은 소수
 n = int(input())
 
 arr = list(map(int, input().split()))

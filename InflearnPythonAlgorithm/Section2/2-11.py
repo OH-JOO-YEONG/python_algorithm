@@ -1,3 +1,4 @@
+# 격자판 회문수
 a = [list(map(int, input().split())) for _ in range(7)]
 
 res = 0

@@ -1,3 +1,4 @@
+# 응급실(큐)
 from collections import deque
 n, m = map(int, input().split())
 dq = deque(map(int, input().split()))

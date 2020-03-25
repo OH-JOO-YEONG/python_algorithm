@@ -1,3 +1,4 @@
+# 씨름 선수(그리디)
 n = int(input())
 
 player = []

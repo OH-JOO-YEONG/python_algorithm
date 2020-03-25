@@ -1,3 +1,4 @@
+# 공주구하기(큐)
 from collections import deque
 
 n, k = map(int, input().split())

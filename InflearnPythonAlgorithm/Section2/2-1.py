@@ -1,3 +1,4 @@
+# 회문 문자열 검사
 n = int(input())
 
 def palindrome(x):

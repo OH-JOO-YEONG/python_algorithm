@@ -1,3 +1,4 @@
+# 격자판 최대합
 n = int(input())
 a = []
 max_t = 0

@@ -1,3 +1,4 @@
+# 마구간 정하기(결정 알고리즘) 이분탐색
 n, c = map(int, input().split())
 
 def Count(a):

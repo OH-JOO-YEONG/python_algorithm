@@ -1,3 +1,4 @@
+# 가장 큰 수(스택)
 num, m = map(int, input().split())
 num = list(map(int, str(num))) # string 상태에서 숫자화시켜 리스트에 넣는 방식
 stack = []

@@ -1,3 +1,4 @@
+# 점수 계산
 n = int(input())
 a = list(map(int, input().split()))
 pre = 0

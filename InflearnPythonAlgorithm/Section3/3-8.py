@@ -1,3 +1,4 @@
+# 침몰하는 타이타닉(그리디)
 from collections import deque
 
 n, m = map(int, input().split())

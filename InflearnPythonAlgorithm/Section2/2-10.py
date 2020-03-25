@@ -1,4 +1,4 @@
-
+# 스도쿠 검사
 a = [list(map(int, input().split())) for _ in range(9)]
 
 def my_solution(a):

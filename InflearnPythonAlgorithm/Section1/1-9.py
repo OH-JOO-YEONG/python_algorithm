@@ -1,3 +1,4 @@
+# 주사위 게임
 n = int(input())
 max_t = 0
 

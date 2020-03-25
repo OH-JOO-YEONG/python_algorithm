@@ -1,3 +1,4 @@
+# 증가 수열 만들기(그리디)
 from collections import deque
 
 n = int(input())

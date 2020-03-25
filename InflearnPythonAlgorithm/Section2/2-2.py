@@ -1,3 +1,4 @@
+# 숫자만 추출
 import re
 
 n = input()

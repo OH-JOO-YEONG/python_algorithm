@@ -1,3 +1,4 @@
+# 회의실 배정(그리디)
 from operator import itemgetter
 
 n = int(input())

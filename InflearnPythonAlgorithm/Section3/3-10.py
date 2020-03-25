@@ -1,3 +1,4 @@
+# 역수열(그리디)
 n = int(input())
 r = list(map(int, input().split()))
 zero = [0] * n

@@ -1,4 +1,4 @@
-
+# 뮤직비디오(결정 알고리즘) 이분탐색
 def Count(capacity):
     cnt = 1
     sum = 0

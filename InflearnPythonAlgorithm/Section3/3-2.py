@@ -1,3 +1,4 @@
+# 랜선자르기(결정알고리즘) 이분탐색
 k, n = map(int, input().split())
 Line = []
 res = 0

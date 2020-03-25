@@ -1,3 +1,4 @@
+# 창고 정리(그리디)
 n = int(input())
 
 g = list(map(int, input().split()))

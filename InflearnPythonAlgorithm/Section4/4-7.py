@@ -1,3 +1,4 @@
+# 교육과정설계(큐)
 from collections import deque
 s = input()
 
