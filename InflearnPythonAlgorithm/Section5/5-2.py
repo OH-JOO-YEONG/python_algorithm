@@ -5,7 +5,7 @@ def DFS(v):
     else:
         print(v, end=' ')
         DFS(v * 2)
-        DFS(v*2+1)
+        DFS(v * 2 + 1)
 
 
 if __name__=="__main__":

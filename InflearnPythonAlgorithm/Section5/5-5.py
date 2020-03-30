@@ -1,5 +1,4 @@
-import sys
-
+# 바둑이 승차
 def DFS(L, sum, tsum):
     global res
     # Cut Edge Tech

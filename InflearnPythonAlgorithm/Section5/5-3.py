@@ -1,4 +1,4 @@
-
+# 부분집합 구하기
 def DFS(v):
     if v == n + 1:
         for i in range(1, n + 1):
