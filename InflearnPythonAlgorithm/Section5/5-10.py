@@ -7,8 +7,6 @@ def DFS(L, s):
             print(res[j], end=' ')
         print()
         cnt += 1
-    if s > n:
-        return
     else:
         for i in range(s, n + 1):
             res[L] = i
