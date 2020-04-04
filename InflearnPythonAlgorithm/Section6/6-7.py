@@ -12,7 +12,7 @@ while dQ:
     now = dQ.popleft()
     if now == m:
         break
-    for next in (now - 1, now  + 1, now + 5): # 세가닥으로 하나씩 반복 예를들어 now가 5면 4 6 10 하나씩 돔
+    for next in (now - 1, now + 1, now + 5): # 세가닥으로 하나씩 반복 예를들어 now가 5면 4 6 10 하나씩 돔
         if 0 < next <= MAX:
             if ch[next] == 0:
                 dQ.append(next)
