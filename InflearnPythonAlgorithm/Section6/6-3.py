@@ -14,7 +14,7 @@ if __name__=="__main__":
     n = int(input())
     s = list(map(int, input().split()))
     total = sum(s)
-    x = [0] * (total + 1) # 메모리가 20만이나 차지할 수 있음 비효율적
+    x = [0] * (total + 1) # 메모리가 20만이나 차지할 수 있음 비효율적 set()으로 추가
     dfs(0, 0)
     res = total - sum(x)
     print(res)

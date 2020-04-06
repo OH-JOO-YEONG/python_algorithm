@@ -1,6 +1,4 @@
-from collections import deque
-
-
+# 단지번호붙이기(DFS, BFS)
 def dfs(x, y):
     global cnt
     cnt += 1 # 발견했으니 카운트

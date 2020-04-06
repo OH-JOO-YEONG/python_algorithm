@@ -1,3 +1,4 @@
+# 등산경로(DFS)
 def dfs(x, y):
     global cnt
     if x == ed[0] and y == ed[1]:
