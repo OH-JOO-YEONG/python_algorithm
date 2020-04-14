@@ -1,4 +1,4 @@
-
+# 수들의 조합
 def DFS(L, s):
     global cnt
     if L == k:
