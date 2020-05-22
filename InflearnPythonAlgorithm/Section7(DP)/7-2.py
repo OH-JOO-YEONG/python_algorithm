@@ -2,6 +2,7 @@
 
 def dfs(len):
     if dy[len] > 0:
+        # 메모이제이션
         return dy[len]
     if len == 1 or len == 2:
         return len
