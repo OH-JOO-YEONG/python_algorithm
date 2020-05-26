@@ -8,7 +8,6 @@ dy[0] = 0
 
 for i in range(n):
     for j in range(arr[i], m + 1):
-        tmp = dy[j - arr[i]] + 1
-        dy[j] = min(tmp, dy[j])
+        dy[j] = min(dy[j - arr[i]] + 1, dy[j])
 
 print(dy[m])
